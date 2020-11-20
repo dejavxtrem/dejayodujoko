@@ -1,4 +1,4 @@
-//Theme-2
+Theme-2
 $(document).ready(function() {
     
     $('.chart').easyPieChart({		
